@@ -1,0 +1,7 @@
+        p {
+          font-size: 0.8em; /*  80% of the parent's font size */
+        }
+        /* Or */
+        p {
+          font-size: 0.8rem; /* 80% of the root element's font size */
+        }
