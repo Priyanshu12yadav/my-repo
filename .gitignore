@@ -1,0 +1,7 @@
+//whatever is  files impootant and private here is to be 
+// ignored by git
+//like private files 
+app.log
+secretes.json
+*.log //for multiple log files
+//files will not commit 
